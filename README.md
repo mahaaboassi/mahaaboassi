@@ -3,7 +3,8 @@
 
 ###
 
-<p align="left">My name is Maha Abo Assi  and I'm a Web Developer and UI/UX Designer, from Syria</p>
+<p align="left">My name is Maha Abo Assi  and I'm a Full Stack Web Developer and UI/UX Designer, from Syria</p>
+<p> My Portfolio: <a target="_blank" href="https://mahacodes.com">https://mahacodes.com</a></p>
 
 ###
 
